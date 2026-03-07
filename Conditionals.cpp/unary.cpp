@@ -2,7 +2,7 @@
 using namespace std;
 int main (){
     int a = 10;
-    // int b = a++;
+    // int b = a++;kaam then update
     // int b = ++a;
     // int b = --a;
     int b = a--;
